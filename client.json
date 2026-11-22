@@ -1,0 +1,8 @@
+{
+  "client_id": "https://felipealexandrino85.github.io/central-marketing-oauth/client.json",
+  "client_name": "Central de Marketing — portal local",
+  "redirect_uris": ["http://127.0.0.1:3100/api/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
